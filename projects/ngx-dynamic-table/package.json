@@ -1,11 +1,10 @@
 {
-  "name": "@christophhu/ngx-dynamic-table",
+  "name": "@c44/ngx-dynamic-table",
   "version": "1.0.4",
   "description": "Create Angular Material Table dynamically.",
   "license": "MIT",
   "author": {
-    "name": "Christoph Huschenhoefer",
-    "email": "christoph@nxt.codes"
+    "name": "C44"
   },
   "keywords": [
     "angular",
@@ -23,11 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChristophHu/ngx-dynamic-table.git"
+    "url": "https://github.com/c44-org/ngx-dynamic-table.git"
   },
   "bugs": {
-    "url": "https://github.com/ChristophHu/ngx-dynamic-table/issues"
+    "url": "https://github.com/c44-org/ngx-dynamic-table/issues"
   },
-  "homepage": "https://github.com/ChristophHu/ngx-dynamic-table#readme",
+  "homepage": "https://github.com/c44-org/ngx-dynamic-table#readme",
   "sideEffects": false
 }
