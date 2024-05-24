@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo
 
-[Demo](https://christophhu.github.io/ngx-dynamic-table/)
+[Demo](https://c44-org.github.io/ngx-dynamic-table/)
 
 ## Use
 
